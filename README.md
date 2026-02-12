@@ -1,5 +1,5 @@
 # YaPr_DataScience_Telecom
-Выпускной проект
+Выпускной проект Яндекс.Практикум в сфере телекоммуникаций.
 
 **Основной стек инструментов: Python (pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn, CatBoost, SHAP, Phik), Jupyter, CSV, статистический анализ, теория вероятностей, машинное обучение.**
 
