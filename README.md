@@ -1,7 +1,7 @@
 # YaPr_DataScience_Telecom
 Выпускной проект
 
-**Основной стек инструментов:** Python (pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn, CatBoost, SHAP, Phik), Jupyter, CSV, статистический анализ, теория вероятностей, машинное обучение.
+**Основной стек инструментов: Python (pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn, CatBoost, SHAP, Phik), Jupyter, CSV, статистический анализ, теория вероятностей, машинное обучение.**
 
 # Телекоммуникации
 
