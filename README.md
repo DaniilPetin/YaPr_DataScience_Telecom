@@ -1,5 +1,8 @@
 # YaPr_DataScience_Telecom
 Выпускной проект
+
+**Основной стек инструментов:** Python (pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn, CatBoost, SHAP, Phik), Jupyter, CSV, статистический анализ, теория вероятностей, машинное обучение.
+
 # Телекоммуникации
 
 Оператор связи «ТелеДом» хочет бороться с оттоком клиентов. Для этого
